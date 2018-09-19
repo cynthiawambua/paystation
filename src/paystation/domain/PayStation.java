@@ -17,6 +17,8 @@
  * implied. You may study, use, modify, and distribute it for non-commercial
  * purposes. For any commercial use, see http://www.baerbak.com/
  */
+
+//Sean McNamara testing
 package paystation.domain;
 
 public interface PayStation {
