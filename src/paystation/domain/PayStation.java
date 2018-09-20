@@ -19,7 +19,7 @@
  */
 
 //Sean McNamara testing
-//Cynthia Wambua testing
+//Cynthia Wambua testing *
 package paystation.domain;
 
 public interface PayStation {
